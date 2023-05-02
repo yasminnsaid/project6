@@ -1,2 +1,2 @@
 # project6
-# questionare/survey on opinons of feminisim 
+#questionare/survey on opinons of feminisim 
